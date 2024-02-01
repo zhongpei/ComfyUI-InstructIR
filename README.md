@@ -2,6 +2,8 @@
 
 Welcome to the ComfyUI plugin for InstructIR, an innovative solution designed to revolutionize the way we improve images using human instructions. With its advanced neural model, InstructIR excels in performing comprehensive image restoration, setting new benchmarks across various tasks. Whether it's removing noise, clearing rain, sharpening blurry images, dissipating haze, or enhancing low-light photos, InstructIR delivers exceptional results.
 
+https://github.com/mv-lab/InstructIR
+
 ![InstructIR Workflow](ir_workflow.jpg)
 
 ## Installation Instructions
@@ -61,7 +63,11 @@ Embrace the power of ComfyUI for InstructIR to transform your images with simple
 
 欢迎使用ComfyUI for InstructIR，这是一个创新的插件，旨在通过人类指令改善图像处理方式。InstructIR通过其先进的神经模型，在各种图像恢复任务中表现出色，设定了新的标准。无论是去噪、去雨、锐化模糊图像、消除雾霾还是增强低光照照片，InstructIR都能提供卓越的结果。
 
+https://github.com/mv-lab/InstructIR
+
+
 ![InstructIR 工作流程](ir_workflow.jpg)
+
 
 ## 安装指南
 要将ComfyUI与InstructIR集成到您的项目中，请按照以下简单步骤操作：

@@ -67,6 +67,7 @@ class InstructIRProcess:
         # image = Image.fromarray(np.clip(255. * image[0].cpu().numpy(),0,255).astype(np.uint8))
         if len(custom_prompt.strip())>0:
             prompt = custom_prompt
+        print(f"prompt: {prompt}")
         output_image = model.process_img(tensor2pil(image[0]), prompt)
         output_image = output_image.convert("RGB")
         return (pil2tensor(output_image),)
