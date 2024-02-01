@@ -45,7 +45,8 @@ class InstructIRProcess:
                     "please I want this image for my photo album, can you edit it as a photographer",
                     "my image is too dark, can you fix it?",
                     "How can I remove the fog and mist from this photo?",
-                    "enhance the colors"
+                    "enhance the colors",
+                    "I need to enhance the size and quality of this image."
                     
                     ], {
                     "default": "enhance the colors",
